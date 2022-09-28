@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 adios
+=======
+Este fichero solo se subira a probar
+>>>>>>> 79c566d113d7a56f69f4d3dd17414469047de301

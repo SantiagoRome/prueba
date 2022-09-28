@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 archivo cambiado!
 
+=======
+Ete sera el primer archivo que suba
+>>>>>>> 79c566d113d7a56f69f4d3dd17414469047de301
